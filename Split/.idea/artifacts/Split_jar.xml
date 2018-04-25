@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Split:jar">
+    <output-path>$USER_HOME$/Documents/java</output-path>
+    <root id="archive" name="Split.jar">
+      <element id="module-output" name="Split" />
+    </root>
+  </artifact>
+</component>

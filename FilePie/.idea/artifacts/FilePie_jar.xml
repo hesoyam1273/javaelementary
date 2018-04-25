@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="FilePie:jar">
+    <output-path>$USER_HOME$/Documents/java/</output-path>
+    <root id="archive" name="FilePie.jar">
+      <element id="module-output" name="FilePie" />
+    </root>
+  </artifact>
+</component>
